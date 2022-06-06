@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "down": "mymod:block/bomb_bottom",
+    "up": "mymod:block/bomb_top",
+    "north": "mymod:block/bomb_side",
+    "east": "mymod:block/bomb_side",
+    "south": "mymod:block/bomb_side",
+    "west": "mymod:block/bomb_side"
+  }
+}
